@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="OpenChance.API/OpenChance.API.csproj" />
+  <Project Path="OpenChance.Application/OpenChance.Application.csproj" />
+  <Project Path="OpenChance.Domain/OpenChance.Domain.csproj" />
+  <Project Path="OpenChance.Infrastructure/OpenChance.Infrastructure.csproj" />
+</Solution>
